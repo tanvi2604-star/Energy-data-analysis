@@ -1,11 +1,11 @@
 # Energy-data-analysis
 Energy Consumption Analysis – Machine Learning Project
-📌 Project Overview
+Project Overview
 
 This project focuses on analyzing and predicting energy consumption using synthetic dataset generation, data preprocessing, visualization, and machine learning techniques.
 It demonstrates the process of working with data from raw form to meaningful insights.
 
-⚙️ Steps Implemented
+ Steps Implemented
 
 Data Generation
 
@@ -47,7 +47,7 @@ Energy consumption peaks in certain months.
 
 Strong relation between temperature and consumption.
 
-🛠️ Tech Stack
+ Tech Stack
 
 Language: Python
 
@@ -57,7 +57,7 @@ Tool: Jupyter Notebook
 
 Output: CSV/Excel + Graphs
 
-📂 Project Files
+ Project Files
 
 energy_analysis.ipynb → Jupyter Notebook with complete code
 
@@ -67,7 +67,7 @@ presentation.pdf → Project summary for internship submission
 
 README.md → Project documentation (this file)
 
-🚀 How to Run the Project
+ How to Run the Project
 
 Clone this repository or download the files.
 
@@ -83,7 +83,7 @@ jupyter notebook energy_analysis.ipynb
 
 Run all cells to generate dataset, clean it, visualize, and train the model.
 
-📊 Sample Output
+ Sample Output
 
 Line chart showing energy consumption over time.
 
